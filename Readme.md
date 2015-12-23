@@ -1,1 +1,1 @@
-<h1> A simple file server in go</h1>
+<h3> A Simple directory-file server in go</h3>
